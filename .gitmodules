@@ -1,0 +1,3 @@
+[submodule "plugins/moderatemisbehaviour/get-pinboard-bookmarks"]
+	path = plugins/moderatemisbehaviour/get-pinboard-bookmarks
+	url = https://github.com/moderatemisbehaviour/TW5-get-pinboard-bookmarks.git
