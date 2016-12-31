@@ -4,3 +4,8 @@ tmp/
 output/
 node_modules/
 wiki-with-get-pinboard-bookmarks-plugin/tiddlers
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

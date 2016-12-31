@@ -14,7 +14,7 @@
     "tiddlywiki": "./tiddlywiki.js"
   },
   "scripts": {
-    "start": "node tiddlywiki.js wiki-with-get-pinboard-bookmarks-plugin/ --server 8080 $:/core/save/all text/plain text/html \"\" \"\" 0.0.0.0"
+    "start": "node tiddlywiki.js wiki-with-get-pinboard-bookmarks-plugin/ --server 8081 $:/core/save/all text/plain text/html \"\" \"\" 0.0.0.0"
   },
   "main": "./boot/boot.js",
   "repository": {
