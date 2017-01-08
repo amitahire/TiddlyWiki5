@@ -7,6 +7,9 @@
 	"tiddlywiki/markdown",
 	"moderatemisbehaviour/get-pinboard-bookmarks"
     ],
+    "config": {
+        "default-tiddler-location": "/var/tiddlers"
+    },
     "themes": [
         "tiddlywiki/vanilla",
         "tiddlywiki/snowwhite"
