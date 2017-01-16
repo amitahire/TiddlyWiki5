@@ -4,3 +4,4 @@ tmp/
 output/
 node_modules/
 wiki-with-get-pinboard-bookmarks-plugin/tiddlers/
+npm-debug.log*
