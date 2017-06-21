@@ -1,4 +1,4 @@
-# A TiddlyWiki fork with the `get-pinboard-bookmarks` plugin suited for deployment to an AWS EC2 instance.
+# A TiddlyWiki fork ready to be deployed to cloud services with the `get-pinboard-bookmarks` plugin.
 
 You can easily [view the differences between this fork and the upstream project](https://github.com/Jermolene/TiddlyWiki5/compare/master...moderatemisbehaviour:master).
 
